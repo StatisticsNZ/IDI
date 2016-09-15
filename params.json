@@ -1,6 +1,0 @@
-{
-  "name": "IDI",
-  "tagline": "Statistics New Zealand Integrated Data Infrastructure",
-  "body": "This page provides examples of code created for use in the IDI. \r\n\r\nIf you are a current or potential IDI user who wishes to access more IDI-related code, you can join MeetaData, an online collaborative space created by Statistics NZ for all microdata users and suppliers. Email meetadata@stats.govt.nz. \r\n\r\nKey to source of code files\r\n\r\nVHIN: Virtual Health Information Network\r\n\r\nT: Treasury",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
